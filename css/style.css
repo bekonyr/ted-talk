@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    margin: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+buttont{
+    cursor: pointer;
+    border: none;
+    transition: .3s;
+
+}
+boody{
+    font-family: "Roboto" , sans-serif;
+}
+#header{
+    background: #001F1F;
+    width: 100%;
+    height: 48px;
+}
+.header  a{
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.85);
+    padding: 15px 0 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#section{
+    background: url("../img/IMAGE.png")no-repeat center/cover  ;
+}
+.logo img {
+
+    margin-top:  17px;
+}
+.hover{
+    display: flex;
+    justify-content: end;}
+.hover a{
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+    margin-left: 51px;
+}
+.logo a {
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: end;
+}
+.section h1{
+
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    margin-top: 132px;
+    letter-spacing: 1.2px;
+    color: #FFFFFF
+}
+.section p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 29px 0 29px 0;
+}
+.section button{
+    padding: 17px 50px;
+    background: none;
+    color: #FFFFFF;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 80px;
+    margin-bottom: 125px;
+}
+.section button:hover{
+    background: rgba(255, 255, 255, 0.13);
+    color: #ffffff;
+}
+.foor{
+    display: flex;
+    align-items: end;
+    justify-content:space-around ;
+}
+.foor img{
+    background: rgba(255, 255, 255, 0.6);
+}
+.foor p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+
+
+    color: #FFFFFF;
+
+
+}
+#sectoio{
+
+}
+.con {
+    display: flex;
+    justify-content: center;
+}
+.sectio h1 {
+    margin: 120px 261px;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 38px;
+
+    text-align: center;
+    letter-spacing: 1.2px;
+
+    color: #003331;
+
+}
+.con button{
+    font-weight: 400;
+    font-size: 29px;
+    padding: 7px 15px;
+    background: #1e5653;
+    color: #ffffff;
+    border-radius: 100%;
+    margin:  0 39px 19px 39px;
+    border: none;
+}
+.con button:hover{
+    color: #052626;
+    background: #249f99;
+    transform: translateY(-6px);
+    opacity: initial;
+    font-size: 35px;
+}
+.sectio img{
+    margin-bottom: 180px;
+}
+.con p{
+
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    margin-left: 2px;
+    margin-bottom: 117px;
+    text-align: center;
+
+    color: rgba(53, 83, 98, 0.8);
+
+}
+#section1{
+    background: #F7F8F8;
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+.section1 h1{
+    margin: 104px 138px 13px 60px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    color: #003331;
+}
+.section1 p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(53, 83, 98, 0.8);
+    margin-left: 60px;
+    margin-bottom: 13px;
+}
+.section1 button{
+    width: 153px;
+    height: 54px;
+    color: #00413E;
+    border: 1px solid rgba(53, 83, 98, 0.2);
+    border-radius: 80px;
+    margin-bottom: 124px;
+    margin-left: 60px;
+    background: none;
+
+}
+.section1 button:hover{
+    color: #052626;
+    background: #249f99;
+    transform: translateY(-6px);
+    opacity: initial;
+    font-size: 18px;
+}
+.section1 img{
+    margin:  80px 0;
+    margin-right: 4px;
+}
+.more{
+    padding: 30px 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.more h1{
+    width: 99px;
+    height: 48px;
+    font-family: 'Public Sans' ,sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(53, 83, 98, 0.8);
+
+}
+.syzyk{
+    width: 153px;
+    height: 2px;
+    background: rgba(53, 83, 98, 0.3);
+    margin-bottom: 10px;
+}
+.ap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ap img{
+    margin-right: 10px;
+}
+.ap h1 {
+    margin-top: 20px;
+}
+.se{
+
+    background: #001414;
+}
+.see{
+    display: flex;
+}
+.see-text{
+    width: 706px;
+    height: 680px;
+    background: #001414;
+
+}
+.see-text h3{
+    margin-top: 247px;
+    margin-left: 81px;
+    margin-bottom: 21px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+
+}
+.see-text p{
+    width: 502px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 81px;
+
+}
